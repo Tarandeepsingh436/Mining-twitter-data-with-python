@@ -1,0 +1,92 @@
+
+
+
+
+{
+    "created_at": "Thu Apr 06 15:24:15 +0000 2017",
+  
+    "entities": {
+      "hashtags": [  
+        {
+            "indices": [
+                72,
+                79 ],
+            "text": "Python"
+        }    
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/muZlMreJNk",
+          "id": 659964467430735872,
+          "id_str": "659964467430735872",
+          "indices": [
+            80,
+            103 ],
+           "type": "photo",
+           "url": "https://t.co/muZlMreJNk"
+         }
+       ],
+      "urls": [
+        {
+          "url": "https:\/\/t.co\/XweGngmxlP",
+          "unwound": {
+            "url": "https:\/\/cards.twitter.com\/cards\/18ce53wgo4h\/3xo1c",
+            "title": "Building the Future of the Twitter API Platform"
+          }
+        }
+      ],
+      "user_mentions": [ 
+        {    
+        "id": 80589255,
+        "id_str": "80589255",
+        "indices": [
+            33,
+            47 ],
+        "name": "Open Source Way",
+        "screen_name": "opensourceway"
+      }
+      ]
+    },
+    "favourites_count": 548,
+       "followers_count": 10090,
+       "following": true,
+       "friends_count": 3578,
+       "id": 17778401,
+       "id_str": "17778401",
+       "lang": "en",
+       "location": "Birmingham, UK",
+       "name": "Packt Publishing",
+       "screen_name": "PacktPub",
+       "statuses_count": 10561,
+       "time_zone": "London",
+       "url": "http://t.co/vEPCgOu235",
+       "utc_offset": 0,
+       "verified": false
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
